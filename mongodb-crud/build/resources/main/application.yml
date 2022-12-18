@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: Productsdb
+      uri: mongodb+srv://mongo-user:Admin1234@cluster0.tdpiw8b.mongodb.net/?retryWrites=true&w=majority
+
+server:
+  port: 9292
